@@ -1,0 +1,26 @@
+
+# virtual environment
+venv/ 
+.venv/
+
+# VSCode Bla
+.vscode/
+
+# debug bla
+__pycache__/
+
+# temporary output files
+out/
+
+# Ignore Test Files
+test_*.py
+
+# Ignore csv files for trip data
+*.csv
+# Ignore pkl class files 
+*.pkl
+# Ignore numpy binary files
+*.npy
+
+# ignore data
+data/
