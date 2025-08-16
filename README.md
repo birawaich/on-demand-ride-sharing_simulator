@@ -44,7 +44,7 @@ In words: clone the repo, install the requirements via pip, make the two directo
 
 Entry Point: `simulation/run_simulation.py`
 
-Note comments in the source file. Per default 24h of the `BieleGrid` environment are simulated. To run the more time-intensive `ManGrid` (Manhattan for the [NYC Taxi Set](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)) read the comments in the entry point file.
+Note comments in the source file. Per default 24h of the `BieleGrid` environment are simulated. To run the more time-intensive `ManGrid` (Manhattan for the [NYC Taxi Set](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)) read the comments in the entry point file and download the dataset and place it into `data/`, we used data from 2013-05-13 resulting in `data/trip_data_050513_050513.csv`.
 
 ## Repository Organization
 
